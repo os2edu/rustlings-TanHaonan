@@ -4,6 +4,6 @@
 
 
 fn main() {
-    let x = "rust"
+    let x = "rust";
     println!("Hello {}!", x);
 }
